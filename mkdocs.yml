@@ -2,5 +2,6 @@ site_name: Dart Course
 nav:
   - Home: index.md
   - Modules:
-      - Module 1: modules/module1.md
-      - Module 2: modules/module2.md
+      - Module 1 - Introduction to Dart: modules/module1.md
+      - Module 2 - Basic Data Types and Variables: modules/module2.md
+      - Module 3 - Control Structures: modules/module3.md
