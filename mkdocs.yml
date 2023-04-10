@@ -1,1 +1,6 @@
 site_name: Dart Course
+nav:
+  - Home: index.md
+  - Modules:
+      - Module 1: modules/module1.md
+      - Module 2: modules/module2.md
