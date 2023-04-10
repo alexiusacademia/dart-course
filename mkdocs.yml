@@ -12,3 +12,9 @@ nav:
       - Module 8 - Asynchronous Programming: modules/module8.md
       - Module 9 - Files and Streams: modules/module9.md
       - Module 10 - Packages and Dependencies: modules/module10.md
+  - Flutter:
+      - Introduction: flutter/introduction.md
+      - Module 1 - Getting Started with Flutter: flutter/module1.md
+
+theme:
+  name: material
