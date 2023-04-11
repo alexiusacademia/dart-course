@@ -15,7 +15,11 @@ nav:
   - Flutter:
       - Introduction: flutter/introduction.md
       - Module 1 - Getting Started with Flutter: flutter/module1.md
-      - Module 2 - Building Flutter UIs: flutter/module2.md
+      - Module 2 - Building Flutter UIs:
+          - Introduction: flutter/module2.md
+          - Lesson 1: flutter/lesson2/2.1.md
+          - Lesson 2: flutter/lesson2/2.2.md
+          - Lesson 3: flutter/lesson2/2.3.md
 
 theme:
   name: material
