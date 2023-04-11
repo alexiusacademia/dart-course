@@ -6,6 +6,18 @@ In this lesson, we will introduce you to Flutter and help you set up your develo
 
 Flutter is an open-source mobile application development framework created by Google. It allows developers to build high-quality, native apps for both Android and iOS using a single codebase. Flutter uses Dart as its programming language and comes with a rich set of pre-built widgets and tools to help you create beautiful and responsive user interfaces.
 
+## Flutter Architecture
+
+Flutter uses a reactive programming model, where the UI is built as a function of the application state. The application state is stored in widgets, which are the building blocks of a Flutter UI. Widgets can be either stateless or stateful. Stateless widgets are immutable and do not have any internal state, while stateful widgets have mutable state that can change over time.
+
+## Flutter Widgets
+
+Widgets are the basic building blocks of a Flutter UI. Widgets can be either stateful or stateless and can be arranged in a hierarchical tree structure. Each widget can have a parent and one or more children, which are also widgets. The parent widget determines the layout and positioning of its children widgets.
+
+## Flutter Layout System
+
+Flutter uses a flexible and powerful layout system that allows developers to create responsive and adaptive UIs. The layout system is based on the concept of constraints, which are the minimum and maximum dimensions that a widget can have. The layout system determines the size and position of a widget based on its constraints and the constraints of its parent widget.
+
 ## Setting up your Development Environment
 
 To start developing with Flutter, you will need to set up your development environment. Here are the steps to get started:
