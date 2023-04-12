@@ -32,8 +32,9 @@ nav:
       - Module 4 - Networking and Persistence:
           - Introduction: flutter/module4.md
           - Lesson 1 - Introduction to Networking: flutter/module4/4.1.md
-          - Lesson 2 - Making HTTP Requests with Flutter: flutter/module4/4.2.md
+          - Lesson 2 - Making HTTP Requests: flutter/module4/4.2.md
           - Lesson 3 - Working with JSON Data: flutter/module4/4.3.md
+          - Lesson 4 - Storing Data Locally: flutter/module4/4.4.md
 theme:
   name: material
 markdown_extensions:
