@@ -27,6 +27,7 @@ nav:
           - Lesson 2: flutter/module3/3.2.md
           - Lesson 3: flutter/module3/3.3.md
           - Lesson 4: flutter/module3/3.4.md
+          - Lesson 5: flutter/module3/3.5.md
 theme:
   name: material
 markdown_extensions:
