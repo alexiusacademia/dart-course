@@ -29,6 +29,8 @@ nav:
           - Lesson 4: flutter/module3/3.4.md
           - Lesson 5: flutter/module3/3.5.md
           - Lesson 6: flutter/module3/3.6.md
+      - Module 4 - Networking and Persistence:
+          - Introduction: flutter/module4.md
 theme:
   name: material
 markdown_extensions:
