@@ -32,6 +32,7 @@ nav:
       - Module 4 - Networking and Persistence:
           - Introduction: flutter/module4.md
           - Lesson 1 - Introduction to Networking: flutter/module4/4.1.md
+          - Lesson 2 - Making HTTP Requests with Flutter: flutter/module4/4.2.md
 theme:
   name: material
 markdown_extensions:
