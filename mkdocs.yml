@@ -37,6 +37,7 @@ nav:
           - Lesson 4 - Storing Data Locally: flutter/module4/4.4.md
           - Lesson 5 - Working with APIs and Data Persistence: flutter/module4/4.5.md
           - Lesson 6 - Working with SQLite: flutter/module4/4.6.md
+          - Lesson 7 - Handling Errors and Exceptions in Networking and Persistence: flutter/module4/4.7.md
 theme:
   name: material
 markdown_extensions:
